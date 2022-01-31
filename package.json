@@ -1,5 +1,28 @@
 {
   "dependencies": {
+    "axios": "^0.25.0",
     "ts-node": "^10.4.0"
+  },
+  "name": "wbs-typescript",
+  "description": "Brief introduction to the amazing World of TypeScript!",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Furien1/wbs-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Furien1/wbs-typescript/issues"
+  },
+  "homepage": "https://github.com/Furien1/wbs-typescript#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.13",
+    "typescript": "^4.5.5"
   }
 }
